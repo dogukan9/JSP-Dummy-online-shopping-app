@@ -1,1 +1,1 @@
-# JSP-Dummy-online-shopping-app
+# JSP-Dummy-online-shopping-app.
